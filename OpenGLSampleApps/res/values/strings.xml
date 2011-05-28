@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, OpenGLSample_1_2!</string>
+    <string name="app_name">OpenGLSampleApps</string>
+<string name="setting_summary">ライブ壁紙でOpenGLを利用します。</string>
+</resources>
