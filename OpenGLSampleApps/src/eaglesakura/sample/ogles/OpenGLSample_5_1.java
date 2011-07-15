@@ -114,12 +114,8 @@ public class OpenGLSample_5_1 extends Activity {
             }
         }
 
-        int frame = 0;
-
         @Override
         public void onDrawFrame(GL10 gl) {
-            if (++frame > 150)
-                return;
             gl.glClearColor(0, 0.0f, 0.5f, 1.0f);
             gl.glClear(GL10.GL_COLOR_BUFFER_BIT | GL10.GL_DEPTH_BUFFER_BIT);
             //! カメラ転送
