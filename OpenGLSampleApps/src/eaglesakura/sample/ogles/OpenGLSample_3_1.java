@@ -13,6 +13,11 @@ import android.opengl.GLU;
 import android.opengl.GLSurfaceView.Renderer;
 import android.os.Bundle;
 
+/**
+ * 8章 カメラの概念
+ * @author SAKURA
+ *
+ */
 public class OpenGLSample_3_1 extends Activity {
     /**
      * 描画対象のView

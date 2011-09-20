@@ -12,6 +12,11 @@ import android.opengl.GLSurfaceView;
 import android.opengl.GLSurfaceView.Renderer;
 import android.os.Bundle;
 
+/**
+ * 9章 インデックスバッファの存在
+ * @author SAKURA
+ *
+ */
 public class OpenGLSample_3_2 extends Activity {
     /**
      * 描画対象のView

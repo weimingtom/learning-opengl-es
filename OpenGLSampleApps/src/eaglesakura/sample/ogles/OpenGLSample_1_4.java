@@ -24,6 +24,8 @@ import android.os.Bundle;
 import android.util.Log;
 
 /**
+ * 4章 画像を描画する
+ * @author SAKURA
  *
  */
 public class OpenGLSample_1_4 extends Activity {

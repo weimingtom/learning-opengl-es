@@ -17,6 +17,12 @@ import android.opengl.GLUtils;
 import android.opengl.GLSurfaceView.Renderer;
 import android.os.Bundle;
 
+/**
+ * 11章 さらに本格的に3Dを利用する
+ * 13章 フォグによる遠近の演出
+ * @author SAKURA
+ *
+ */
 public class OpenGLSample_4_1_2 extends Activity {
     /**
      * 描画対象のView

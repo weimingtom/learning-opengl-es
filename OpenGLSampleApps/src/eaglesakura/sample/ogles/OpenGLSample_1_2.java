@@ -7,6 +7,11 @@ import android.app.Activity;
 import android.opengl.GLSurfaceView;
 import android.os.Bundle;
 
+/**
+ * 2.1.3 描画用SurfaceViewを追加する
+ * @author SAKURA
+ *
+ */
 public class OpenGLSample_1_2 extends Activity {
 
     /**

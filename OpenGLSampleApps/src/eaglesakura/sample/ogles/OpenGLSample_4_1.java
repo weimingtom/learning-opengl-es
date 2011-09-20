@@ -14,6 +14,11 @@ import android.opengl.GLU;
 import android.opengl.GLSurfaceView.Renderer;
 import android.os.Bundle;
 
+/**
+ * 12章 応用的な3D知識
+ * @author SAKURA
+ *
+ */
 public class OpenGLSample_4_1 extends Activity {
     /**
      * 描画対象のView

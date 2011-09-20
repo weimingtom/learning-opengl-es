@@ -15,6 +15,8 @@ import android.opengl.GLSurfaceView;
 import android.os.Bundle;
 
 /**
+ * 3章 簡単な図形を描画する
+ * @author SAKURA
  *
  */
 public class OpenGLSample_1_3 extends Activity {

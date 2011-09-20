@@ -17,6 +17,11 @@ import eaglesakura.gles.Figure;
 import eaglesakura.gles.GLManager;
 import eaglesakura.gles.Object3D;
 
+/**
+ * 14章 実際のツールと連携する
+ * @author SAKURA
+ *
+ */
 public class OpenGLSample_5_1 extends Activity {
     /**
      * 描画対象のView

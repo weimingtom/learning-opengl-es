@@ -15,6 +15,11 @@ import android.opengl.GLSurfaceView;
 import android.os.Bundle;
 import android.util.Log;
 
+/**
+ * 5章 画像をブレンドする
+ * @author SAKURA
+ *
+ */
 public class OpenGLSample_1_5 extends Activity {
     /**
      * 描画対象のView

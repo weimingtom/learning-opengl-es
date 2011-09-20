@@ -14,6 +14,11 @@ import android.opengl.GLU;
 import android.opengl.GLSurfaceView.Renderer;
 import android.os.Bundle;
 
+/**
+ * 10章 本格的に3Dを扱う
+ * @author SAKURA
+ *
+ */
 public class OpenGLSample_3_4 extends Activity {
     /**
      * 描画対象のView

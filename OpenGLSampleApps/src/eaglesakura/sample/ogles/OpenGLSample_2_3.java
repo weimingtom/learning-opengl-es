@@ -14,6 +14,11 @@ import android.opengl.GLSurfaceView;
 import android.opengl.GLUtils;
 import android.os.Bundle;
 
+/**
+ * 7章 VertexBufferObjectで描画速度を向上する
+ * @author SAKURA
+ *
+ */
 public class OpenGLSample_2_3 extends OpenGLSample_ex_2 {
     GLSurfaceView.Renderer render;
 

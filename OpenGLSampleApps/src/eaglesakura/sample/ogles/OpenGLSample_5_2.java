@@ -18,6 +18,11 @@ import eaglesakura.gles.GLManager;
 import eaglesakura.gles.Mesh;
 import eaglesakura.gles.Object3D;
 
+/**
+ * より実践的にOpenGL ESを利用する
+ * @author SAKURA
+ *
+ */
 public class OpenGLSample_5_2 extends Activity {
     /**
      * 描画対象のView

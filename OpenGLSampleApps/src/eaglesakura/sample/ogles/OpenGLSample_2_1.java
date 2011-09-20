@@ -14,6 +14,11 @@ import android.opengl.GLUtils;
 import android.os.Bundle;
 import android.widget.Toast;
 
+/**
+ * 6章 行列のできるOpenGL
+ * @author SAKURA
+ *
+ */
 public class OpenGLSample_2_1 extends OpenGLSample_ex_2 {
     GLSurfaceView.Renderer render;
 

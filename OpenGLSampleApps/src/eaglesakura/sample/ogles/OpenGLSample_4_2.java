@@ -13,6 +13,12 @@ import android.opengl.GLU;
 import android.opengl.GLSurfaceView.Renderer;
 import android.os.Bundle;
 
+/**
+ * 13章 フォグによる遠近の演出
+ * 13.3 ポリゴンの表と裏
+ * @author SAKURA
+ *
+ */
 public class OpenGLSample_4_2 extends Activity {
     /**
      * 描画対象のView

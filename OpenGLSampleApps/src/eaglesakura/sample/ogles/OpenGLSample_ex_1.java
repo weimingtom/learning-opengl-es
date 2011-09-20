@@ -13,6 +13,11 @@ import android.opengl.GLSurfaceView;
 import android.os.Bundle;
 import eaglesakura.sample.ogles.bmp.PaletteBitmap;
 
+/**
+ * 付録A 圧縮テクスチャを利用する
+ * @author SAKURA
+ *
+ */
 public class OpenGLSample_ex_1 extends OpenGLSample_ex_2 {
     GLSurfaceView.Renderer render;
 

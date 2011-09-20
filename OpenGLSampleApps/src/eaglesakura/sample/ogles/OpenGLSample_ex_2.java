@@ -16,7 +16,9 @@ import android.view.SurfaceView;
 import android.widget.Toast;
 
 /**
- * 自前のSurfaceViewを利用する
+ * 付録B GLSurfaceViewを脱却する
+ * @author SAKURA
+ *
  */
 public class OpenGLSample_ex_2 extends Activity implements SurfaceHolder.Callback {
     private SurfaceView view = null;
